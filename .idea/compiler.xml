@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Gradle Imported" enabled="true">
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="false">
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.minecraftforge/eventbus-validator/7.0-beta.12/d2ed47c214b96d89050ba12b8cfd6d613c3ae0ca/eventbus-validator-7.0-beta.12.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.minecraftforge/eventbus/7.0-beta.12/e9268d9be3a0dea79b640c492bfcbfcd8cd0b2d3/eventbus-7.0-beta.12.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jspecify/jspecify/1.0.0/7425a601c1c7ec76645a78d22b8c6a627edee507/jspecify-1.0.0.jar" />
+        </processorPath>
+        <module name="forge-idlegen.main" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="21" />
+  </component>
+</project>
